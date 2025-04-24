@@ -9,6 +9,4 @@ Tipos de dados:
     string : "texto"
     int : 10
     float : 10.5
-    bool true / false 
-
-    
+    bool true / false
